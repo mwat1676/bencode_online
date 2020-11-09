@@ -1,0 +1,8 @@
+body {
+  padding-top: 4rem;
+}
+
+#jsonEditor {
+  height: 75vh;
+  z-index: 0;
+}
