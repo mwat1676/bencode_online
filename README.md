@@ -1,4 +1,4 @@
-Cloned from [chocobo1.github.io/bencode_online](https://github.com/Chocobo1/)
+Cloned from [>Chocobo1/bencode_online<](https://github.com/Chocobo1/bencode_online)
 
 # Bencode Online
 
